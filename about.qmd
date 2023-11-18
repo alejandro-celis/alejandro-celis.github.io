@@ -16,4 +16,10 @@ about:
 
 ---
 
-Hi, I am Alejandro Celis, thanks for visiting my site.
+Hi, I am Alejandro Celis, thanks for visiting my site.  
+
+Over the years, I've had the opportunity to deliver and lead analytics projects across different industries, from E-commerce to FinTech and the Internet of Things (IoT), and it's been an incredible journey. I am passionate about unlocking the value of data for organizations in today's digital world. I'm skilled in Azure, Databricks, Python, data analysis, business intelligence, machine learning and data science, data and machine learning engineering.
+
+I have an academic background in Physics. After achieving a PhD in Physics and conducting postdoctoral research about elementary particle physics, I decided to further develop my career in industry with the aim of driving and shaping data-focused strategies as a key to achieving business goals. 
+
+My scientific articles can be found in [arXiv](https://arxiv.org/a/celis_a_1.html).
